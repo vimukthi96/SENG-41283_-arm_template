@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "servers_dbiotserver_name": {
+            "value": null
+        },
+        "sites_webapp1111111_name": {
+            "value": null
+        },
+        "components_webapp1111111_name": {
+            "value": null
+        },
+        "streamingjobs_vimukthi_name": {
+            "value": null
+        },
+        "storageAccounts_sqlvaksi3mnfx6drfy_name": {
+            "value": null
+        },
+        "storageAccounts_cs110032000d6cdc742_name": {
+            "value": null
+        },
+        "streamingjobs_streamanalysisdata_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___webapp1111111_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        },
+        "serverfarms_ASP_getras_9f57_externalid": {
+            "value": null
+        }
+    }
+}

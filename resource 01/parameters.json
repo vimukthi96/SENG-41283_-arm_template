@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "IotHubs_iots_connectionString": {
+            "value": null
+        },
+        "IotHubs_iots_containerName": {
+            "value": null
+        },
+        "IotHubs_iots_name": {
+            "value": null
+        },
+        "sites_webapp111101_name": {
+            "value": null
+        },
+        "serverfarms_ASP_getras_9f57_name": {
+            "value": null
+        },
+        "serverfarms_webapp111101plan_name": {
+            "value": null
+        },
+        "workspaces_iots_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___webapp111101_name": {
+            "value": null
+        },
+        "components_webapp111101_externalid": {
+            "value": null
+        }
+    }
+}
